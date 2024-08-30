@@ -69,7 +69,7 @@ class MimeMap {
 		'image/x-djvu' => [ 'djvu' ],
 		'image/x-portable-pixmap' => [ 'ppm' ],
 		'image/x-xcf' => [ 'xcf' ],
-		'text/plain' => [ 'txt' ],
+		'text/plain' => [ 'txt', 'csql', 'cSQL' ],
 		'text/html' => [ 'html', 'htm' ],
 		'video/ogg' => [ 'ogv', 'ogm', 'ogg' ],
 		'video/mpeg' => [ 'mpg', 'mpeg', 'mpe' ],
@@ -131,7 +131,7 @@ class MimeMap {
 		'application/x-xpinstall' => [ 'xpi' ],
 		'application/xhtml+xml' => [ 'xhtml', 'xht' ],
 		'application/xslt+xml' => [ 'xslt' ],
-		'application/xml' => [ 'xml', 'xsl', 'xsd', 'kml' ],
+		'application/xml' => [ 'xml', 'xsl', 'xsd', 'kml', 'circ' ],
 		'application/xml-dtd' => [ 'dtd' ],
 		'application/zip' =>
 			[ 'zip', 'jar', 'xpi', 'sxc', 'stc', 'sxd', 'std', 'sxi', 'sti', 'sxm', 'stm', 'sxw', 'stw' ],
